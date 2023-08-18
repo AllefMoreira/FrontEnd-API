@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 
-import { Details } from '../pages/Details/Index.js'
+import { Details } from '../pages/Details/Index.jsx'
 import { Home } from '../pages/Home/Index.jsx'
 import { New } from '../pages/New/index.jsx'
 import { Profile } from '../pages/Profile/index.jsx'
